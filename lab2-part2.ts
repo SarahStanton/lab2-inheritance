@@ -36,3 +36,4 @@ mySavingsAccount.checkBalance();
 mySavingsAccount.withdraw(100);
 mySavingsAccount.withdraw(100);
 mySavingsAccount.withdraw(100);
+mySavingsAccount.checkBalance();
